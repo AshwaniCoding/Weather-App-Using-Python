@@ -16,13 +16,13 @@ Tools and Technologies:
 
 Hardware Requirements: 
 The hardware requirements for running this project are minimal. You can run it on a standard personal computer or laptop with the following specifications: 
-Processor: Any modern processor with at least 1 GHz clock speed. 
-RAM: 2 GB or more for smooth operation. 
-Storage: Minimal storage space is required for the Python interpreter and libraries. 
+1. Processor: Any modern processor with at least 1 GHz clock speed. 
+2. RAM: 2 GB or more for smooth operation. 
+3. Storage: Minimal storage space is required for the Python interpreter and libraries. 
 
 Software Requirements: 
 The software requirements include: 
-Python: You need Python installed on your system. 
-Python Libraries: You need to install the required libraries using pip. You can install them using the following commands: 
-pip install tkinter requests Pillow ttkbootstrap
-OpenWeatherMap API Key: You need to sign up on the OpenWeatherMap website to obtain an API key, which you'll use to access weather data. 
+1. Python: You need Python installed on your system. 
+2. Python Libraries: You need to install the required libraries using pip. You can install them using the following commands: 
+    pip install tkinter requests Pillow ttkbootstrap
+3. OpenWeatherMap API Key: You need to sign up on the OpenWeatherMap website to obtain an API key, which you'll use to access weather data. 
