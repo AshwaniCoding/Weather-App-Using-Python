@@ -23,6 +23,5 @@ The hardware requirements for running this project are minimal. You can run it o
 Software Requirements: 
 The software requirements include: 
 1. Python: You need Python installed on your system. 
-2. Python Libraries: You need to install the required libraries using pip. You can install them using the following commands: 
-    pip install tkinter requests Pillow ttkbootstrap
+2. Python Libraries: You need to install the required libraries using pip. You can install them using the following commands: pip install tkinter requests Pillow ttkbootstrap
 3. OpenWeatherMap API Key: You need to sign up on the OpenWeatherMap website to obtain an API key, which you'll use to access weather data. 
