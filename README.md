@@ -25,5 +25,4 @@ The software requirements include:
 Python: You need Python installed on your system. 
 Python Libraries: You need to install the required libraries using pip. You can install them using the following commands: 
 pip install tkinter requests Pillow ttkbootstrap
-OpenWeatherMap API Key: You need to sign up on the OpenWeatherMap website to obtain 
-an API key, which you'll use to access weather data. 
+OpenWeatherMap API Key: You need to sign up on the OpenWeatherMap website to obtain an API key, which you'll use to access weather data. 
